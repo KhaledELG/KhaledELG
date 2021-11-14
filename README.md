@@ -2,7 +2,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+KhaledELG...;Nice+to+meet+you!&center=true&size=30">
-    <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
   </a>
 </h1>
 
