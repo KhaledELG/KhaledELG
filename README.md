@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/khaled-el-ghammarti/)
 
-- :hatching_chick: 23 year old 
+- :hatching_chick: 25 year old 
 - :blue_book: Passionnate about mathematics and computer sciences
 - :school: Student at @Ecole Centrale de Nantes
 - :hammer: Like struggling with relevant issues
