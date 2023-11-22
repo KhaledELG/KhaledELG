@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/khaled-el-ghammarti/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/khaled-el-ghammarti/) [![GitLab](https://img.shields.io/badge/GitLab-orange?style=flat&logo=gitlab&labelColor=grey)](https://gitlab.com/kelg)
 
 - :hatching_chick: 25 year old 
 - :blue_book: Passionnate about mathematics and computer sciences
