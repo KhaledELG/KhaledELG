@@ -9,7 +9,6 @@
 
 - :hatching_chick: 25 year old 
 - :blue_book: Passionnate about mathematics and computer sciences
-- :school: Student at @Ecole Centrale de Nantes
 - :hammer: Like struggling with relevant issues
 ### My fresh GitHub stats :sparkles: :grinning:
 
